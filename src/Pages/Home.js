@@ -2,7 +2,7 @@
 
 //Import all the require sections here
 import HeroSection from "../Sections/Hero/index";
-import About from "../Sections/About/indexgit pull upstream master"
+import About from "../Sections/About/index"
 
 
 import Testimonials from "../Sections/Testimonials/index";
