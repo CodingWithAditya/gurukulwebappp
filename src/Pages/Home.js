@@ -2,9 +2,9 @@
 
 //Import all the require sections here
 import HeroSection from "../Sections/Hero/index";
-import Abouts from "../Sections/about";
+import About from "../Sections/About/indexgit pull upstream master"
 
-import Services from "../Sections/Services/index";
+
 import Testimonials from "../Sections/Testimonials/index";
 import Contact from "../Sections/Contact/index";
 import styled from "styled-components";
@@ -28,7 +28,7 @@ const Home = () => {
       <HeroSection />
       <Testimonials />
       <Nearu/>
-      <Abouts/>
+      <About/>
       <About2/>
       <Contact />
     </Container>

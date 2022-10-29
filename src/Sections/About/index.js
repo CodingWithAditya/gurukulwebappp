@@ -71,7 +71,7 @@ const Carousal = styled.div`
   }
 `;
 
-const Abouts = () => {
+const About = () => {
   const settings = {
    
     infinite: true,
@@ -126,4 +126,4 @@ const Abouts = () => {
   );
 };
 
-export default Abouts;
+export default About;
